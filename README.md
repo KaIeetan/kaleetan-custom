@@ -1,2 +1,2 @@
 # kaleetan-custom
-personal tf2 custom folder
+personal custom folder for tf2
